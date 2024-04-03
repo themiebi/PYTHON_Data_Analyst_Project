@@ -1,1 +1,1 @@
-# UDC-data_analyst_ND
+# Udacity-data_analyst_ND
